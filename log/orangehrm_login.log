@@ -1,0 +1,361 @@
+2023-08-08 10:51:01,299 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-08 10:51:04,393 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-08 10:51:07,478 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-08 10:51:07,532 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-08 10:51:10,550 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 63 : case is passed
+2023-08-08 10:51:14,910 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-08 10:51:18,079 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-08 10:51:18,161 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-08 10:51:21,184 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 63 : case is passed
+2023-08-08 10:51:25,538 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-08 10:51:28,694 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-08 10:51:28,754 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-08 10:51:31,819 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 63 : case is passed
+2023-08-08 10:51:36,145 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-08 10:51:39,307 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-08 10:51:39,358 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-08 10:51:42,373 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 35 : case is passed
+2023-08-08 10:51:51,034 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Alladin
+2023-08-08 10:51:54,187 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: abu
+2023-08-08 10:51:54,234 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-08 10:51:57,307 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 63 : case is passed
+2023-08-08 10:51:58,545 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 70 : Data derive testing is passed
+
+2023-08-09 11:51:36,682 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 11:54:04,535 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:03:05,722 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:05:23,842 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:05:25,183 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:05:25,228 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:05:29,332 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-09 12:07:27,081 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:07:29,168 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:07:29,400 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:07:29,557 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-09 12:10:05,618 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:10:06,852 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:10:06,944 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:10:07,059 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-09 12:11:41,153 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:11:42,452 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:11:42,565 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:11:42,686 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 30 : click login button
+2023-08-09 12:14:49,633 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:17:05,095 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:18:23,692 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:21:06,490 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:21:51,028 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:26:28,297 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:30:15,067 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:31:12,657 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:31:16,790 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:31:19,883 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:31:22,985 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:31:26,048 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:31:31,420 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 12:31:34,632 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:31:37,686 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:31:42,035 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:31:47,409 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 12:31:50,557 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 12:31:53,662 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:31:56,730 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:32:02,081 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 12:32:05,232 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:32:08,359 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:32:11,525 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 58 : case is failed
+2023-08-09 12:36:21,751 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:36:22,473 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:36:22,602 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:36:22,713 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:37:28,871 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:37:29,553 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:37:29,678 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:37:30,571 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:39:50,097 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:39:53,206 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:39:56,288 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:39:59,352 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:40:05,392 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:40:08,639 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 12:40:11,741 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:40:14,811 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:40:20,855 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:40:24,113 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 12:40:27,199 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 12:40:30,262 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:40:36,327 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:40:39,557 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 12:40:42,648 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:40:45,700 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:40:48,747 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 36 : case is passed
+2023-08-09 12:40:58,939 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Alladin
+2023-08-09 12:41:02,027 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: abu
+2023-08-09 12:41:05,109 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:41:11,180 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:41:11,331 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 71 : Data derive testing is passed
+2023-08-09 12:42:08,988 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:42:12,104 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:42:15,187 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:42:18,254 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:42:24,306 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:42:27,553 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 12:42:30,657 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:42:33,732 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:42:39,800 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:42:43,012 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 12:42:46,095 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 12:42:49,139 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:42:55,210 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:42:58,471 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 12:43:01,541 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:43:04,596 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:43:07,611 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 36 : case is passed
+2023-08-09 12:43:17,891 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Alladin
+2023-08-09 12:43:20,979 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: abu
+2023-08-09 12:43:24,062 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:43:30,132 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:43:30,291 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 71 : Data derive testing is passed
+2023-08-09 12:45:35,118 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:45:38,236 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:45:41,327 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:45:44,392 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:45:50,459 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:45:53,693 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 12:45:56,792 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:45:59,861 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:46:05,918 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:46:09,173 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 12:46:12,270 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 12:46:15,339 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:46:21,407 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:46:24,648 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 12:46:27,764 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:46:30,828 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:46:33,840 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 36 : case is passed
+2023-08-09 12:46:44,123 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Alladin
+2023-08-09 12:46:47,208 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: abu
+2023-08-09 12:46:50,293 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:46:56,359 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:46:56,514 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 72 : Data derive testing is passed
+2023-08-09 12:56:55,795 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:56:56,518 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:56:56,645 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:56:56,764 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:58:05,218 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:58:05,925 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:58:06,052 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:58:06,163 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:59:52,535 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 12:59:53,666 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 12:59:54,782 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 12:59:56,688 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 12:59:58,709 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 12:59:59,961 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 13:00:01,039 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:00:02,085 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:00:04,134 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:00:05,355 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 13:00:06,469 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 13:00:07,530 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:00:09,554 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:00:10,785 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 13:00:11,871 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:00:12,927 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:00:46,619 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 13:00:47,743 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 13:00:48,835 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:00:49,904 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:00:51,930 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:00:53,163 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 13:00:54,248 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:00:55,298 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:00:57,336 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:00:58,581 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 13:00:59,684 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 13:01:00,725 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:01:02,795 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:01:04,120 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 13:01:05,214 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:01:06,285 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:01:35,659 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 13:01:36,773 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 13:01:37,870 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:01:38,934 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:01:41,025 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:01:42,259 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 13:01:43,340 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:01:44,384 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:01:46,467 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:01:47,683 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 13:01:48,770 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 13:01:49,819 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:01:51,934 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:01:53,202 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 13:01:54,296 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:01:55,348 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:02:29,258 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 13:02:30,458 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 13:02:31,565 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:02:33,626 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:02:35,716 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:02:36,950 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 13:02:38,029 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:02:40,096 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:02:42,194 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:02:43,453 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 13:02:44,559 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 13:02:46,630 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:02:48,664 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:02:49,898 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 13:02:50,993 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:02:53,064 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:04:09,413 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 15 : Opening browser
+2023-08-09 13:04:12,520 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin123
+2023-08-09 13:04:15,602 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:04:18,670 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:04:24,717 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:04:27,964 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admi
+2023-08-09 13:04:31,056 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:04:34,125 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:04:40,189 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:04:43,448 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admino
+2023-08-09 13:04:46,524 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin12345
+2023-08-09 13:04:49,591 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:04:55,656 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:04:58,868 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Admin
+2023-08-09 13:05:01,956 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: admin123
+2023-08-09 13:05:05,038 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:05:08,051 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 36 : case is passed
+2023-08-09 13:05:20,294 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 25 : enter username: Alladin
+2023-08-09 13:05:23,378 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 28 : Enter password: abu
+2023-08-09 13:05:26,442 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 31 : click login button
+2023-08-09 13:05:32,486 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 64 : case is passed
+2023-08-09 13:05:32,647 : INFO : Test_Orangehrm_Login : test_orangehrm_login_01 : 72 : Data derive testing is passed
+2023-08-09 17:30:06,630 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 27 : Opening browser
+2023-08-09 17:30:10,317 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 15 : Taking screenshot
+2023-08-09 17:30:10,594 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 17 : Tile test case is passed
+2023-08-09 17:30:52,396 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 15 : Taking screenshot
+2023-08-09 17:30:52,533 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 17 : Tile test case is passed
+2023-08-09 17:31:04,189 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 27 : Opening browser
+2023-08-09 17:32:55,849 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:32:57,995 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:33:03,093 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:33:50,437 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:33:52,583 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:33:57,435 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:34:40,024 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:34:42,113 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:34:52,781 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:37:54,034 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:37:56,112 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:38:11,019 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:55:33,590 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:55:35,749 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:55:40,890 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:55:46,055 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 17:56:17,706 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:56:19,866 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:56:24,722 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:56:29,886 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 17:57:07,014 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 17:57:09,186 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 17:57:13,842 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:57:18,981 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 17:58:03,426 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:58:08,530 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 17:58:51,909 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 17:58:57,010 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 17:59:57,013 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 18:00:02,124 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 18:00:45,145 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 18:00:50,262 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 18:02:49,281 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 30 : Opening browser
+2023-08-09 18:02:54,397 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin123
+2023-08-09 18:03:36,502 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:03:39,567 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 46 : click login button
+2023-08-09 18:03:45,632 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 79 : case is passed
+2023-08-09 18:03:50,856 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admi
+2023-08-09 18:04:32,954 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:04:36,019 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 46 : click login button
+2023-08-09 18:04:42,055 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 79 : case is passed
+2023-08-09 18:04:47,306 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admino
+2023-08-09 18:05:29,413 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin12345
+2023-08-09 18:05:32,495 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 46 : click login button
+2023-08-09 18:05:38,542 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 79 : case is passed
+2023-08-09 18:05:43,763 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Admin
+2023-08-09 18:06:25,837 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:06:28,919 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 46 : click login button
+2023-08-09 18:06:31,932 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 51 : case is passed
+2023-08-09 18:06:46,112 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 40 : enter username: Alladin
+2023-08-09 18:07:28,205 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: abu
+2023-08-09 18:07:31,292 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 46 : click login button
+2023-08-09 18:07:37,360 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 79 : case is passed
+2023-08-09 18:07:37,539 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 87 : Data derive testing is passed
+2023-08-09 18:17:53,926 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 18:17:56,134 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 18:18:01,591 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 32 : Opening browser
+2023-08-09 18:18:03,707 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 42 : enter username: Admin123
+2023-08-09 18:18:35,801 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : Enter password: admin123
+2023-08-09 18:18:37,868 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 48 : click login button
+2023-08-09 18:18:43,909 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 81 : case is passed
+2023-08-09 18:18:46,168 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 42 : enter username: Admi
+2023-08-09 18:19:18,256 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : Enter password: admin123
+2023-08-09 18:19:20,339 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 48 : click login button
+2023-08-09 18:19:26,393 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 81 : case is passed
+2023-08-09 18:19:28,641 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 42 : enter username: Admino
+2023-08-09 18:20:00,746 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : Enter password: admin12345
+2023-08-09 18:20:02,807 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 48 : click login button
+2023-08-09 18:20:08,840 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 81 : case is passed
+2023-08-09 18:20:11,068 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 42 : enter username: Admin
+2023-08-09 18:20:43,150 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : Enter password: admin123
+2023-08-09 18:20:45,213 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 48 : click login button
+2023-08-09 18:20:48,231 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 53 : case is passed
+2023-08-09 18:20:59,425 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 42 : enter username: Alladin
+2023-08-09 18:21:31,496 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : Enter password: abu
+2023-08-09 18:21:33,583 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 48 : click login button
+2023-08-09 18:21:39,640 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 81 : case is passed
+2023-08-09 18:21:39,821 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 89 : Data derive testing is passed
+2023-08-09 18:24:52,789 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 18:24:53,959 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 18:24:58,985 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 32 : Opening browser
+2023-08-09 18:25:01,101 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admin123
+2023-08-09 18:25:03,194 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:25:05,255 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:25:11,309 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:25:13,561 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admi
+2023-08-09 18:25:15,658 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:25:17,722 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:25:23,765 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:25:26,005 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admino
+2023-08-09 18:25:28,118 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin12345
+2023-08-09 18:25:30,184 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:25:36,245 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:25:38,496 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admin
+2023-08-09 18:25:40,580 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:25:42,647 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:25:48,693 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 64 : case is failed
+2023-08-09 18:31:49,540 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 16 : Taking screenshot
+2023-08-09 18:31:50,703 : INFO : Test_Orangehrm_Login : test_orangehrm_title_01 : 19 : Tile test case is passed
+2023-08-09 18:31:55,655 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 32 : Opening browser
+2023-08-09 18:31:57,759 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admin123
+2023-08-09 18:31:59,844 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:32:01,900 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:32:07,944 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:32:10,187 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admi
+2023-08-09 18:32:12,277 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:32:14,324 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:32:20,388 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:32:22,636 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admino
+2023-08-09 18:32:24,717 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin12345
+2023-08-09 18:32:26,764 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:32:32,834 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:32:35,063 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Admin
+2023-08-09 18:32:37,138 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: admin123
+2023-08-09 18:32:39,190 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:32:42,215 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 49 : case is passed
+2023-08-09 18:32:53,493 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 41 : enter username: Alladin
+2023-08-09 18:32:55,586 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 43 : Enter password: abu
+2023-08-09 18:32:57,646 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 45 : click login button
+2023-08-09 18:33:03,717 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 69 : case is passed
+2023-08-09 18:33:03,893 : INFO : Test_Orangehrm_Login : test_orangehrm_login_02 : 74 : Data derive testing is passed
