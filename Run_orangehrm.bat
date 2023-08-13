@@ -1,0 +1,1 @@
+pytest -v -s --browser chrome

@@ -1,0 +1,4 @@
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:152 Open browser
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:155 enter username: Admino
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:157 Enter password: admin12345
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:159 click login button

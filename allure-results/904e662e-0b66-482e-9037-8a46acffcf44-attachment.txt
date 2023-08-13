@@ -1,0 +1,19 @@
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:48 Opening browser
+
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:57 enter username: Admin123
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:59 Enter password: admin123
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:61 click login button
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:95 case is passed
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:57 enter username: Admi
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:59 Enter password: admin123
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:61 click login button
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:95 case is passed
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:57 enter username: Admino
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:59 Enter password: admin12345
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:61 click login button
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:95 case is passed
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:57 enter username: Admin
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:59 Enter password: admin123
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:61 click login button
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:65 case is passed
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:71 Click on menu button

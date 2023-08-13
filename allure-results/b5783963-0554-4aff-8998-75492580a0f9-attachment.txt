@@ -1,0 +1,2 @@
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:29 Taking screenshot
+[32mINFO    [0m Test_Orangehrm_Login:test_orangehrm_login.py:33 Tile test case is passed

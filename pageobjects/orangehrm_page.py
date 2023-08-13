@@ -10,8 +10,8 @@ class Orangehrm_Login():
     text_password_NAME = (By.NAME,"password")
     click_login_button_XPATH = (By.XPATH,"//button[@type='submit']")
     click_menu_css = (By.CSS_SELECTOR,".oxd-userdropdown-tab")
-    click_signout_XPATH = (By.XPATH,"//a[normalize-space()='Logout']")
-    login_status_XPATH = (By.XPATH,"//span[@class='oxd-text oxd-text--span oxd-main-menu-item--name'][normalize-space()='Dashboard']")
+    click_signout_LINK_Text = (By.LINK_TEXT,"Logout")
+    login_status_css = (By.CSS_SELECTOR,".oxd-userdropdown-tab")
 
     def __init__(self,driver):
         self.driver = driver
@@ -40,16 +40,16 @@ class Orangehrm_Login():
         self.driver.find_element(*Orangehrm_Login.click_menu_css).click()
 
     def SignOut(self):
-        time.sleep(3)
+        time.sleep(5)
         # self.wait.until(EC.visibility_of_element_located(self.click_signout_XPATH))
-        self.driver.find_element(*Orangehrm_Login.click_signout_XPATH).click()
+        self.driver.find_element(*Orangehrm_Login.click_signout_LINK_Text).click()
 
 
     def Login_Status(self):
         time.sleep(3)
         # self.wait.until(EC.visibility_of_element_located(self.login_status_XPATH))
         try:
-            self.driver.find_element(*Orangehrm_Login.login_status_XPATH)
+            self.driver.find_element(*Orangehrm_Login.login_status_css)
             return True
         except:
             return False
